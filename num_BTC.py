@@ -11,7 +11,7 @@ def num_BTC(b):
 		round = round - 1
 		circulate = circulate / 2
 	total += circulate * extra
-    c = float(total)
-    return c
+	c = float(total)
+	return c
 
 
